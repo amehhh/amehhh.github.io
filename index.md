@@ -21,17 +21,14 @@ Hi!, I am a Ph.D. student in the department of Chemical Engineering, currently c
 </figure>
 ## Interests 
 * Computational fluid dynamics
-* Deep learning
-* Numerical modeling
-* Reinforcement learning
-* High-performance computing
+* Machine / Deep learning
+* Numerical Analysis
+* Optimal Control / Reinforcement learning
 * Reduced-order modeling
 
 ## Education
-* **Ph.D.**, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2022
+* **Ph.D.**, Chemical Engineering, Cornell University, 2024 - Present 
 <br />
-Concentration in Computational Science and Engineering
+Minor in Computer Science
 
-* **M.S.**, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2018
-
-* **B.Tech.**, Mechanical Engineering, Indian Institute of Technology (IIT) Gandhinagar, 2016 
+* **B.Sc.**, Engineering, Kazan National Research Technological University, 2024
