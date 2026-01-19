@@ -5,6 +5,7 @@
 # Go to markdown.org to checkout how to use more markdown syntax
 layout: single
 author_profile: true
+classes: wide 
 
 ---
 {: style="text-align: justify;"}
