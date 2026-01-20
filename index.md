@@ -28,8 +28,8 @@ Hi!, I am a Ph.D. student in the department of Chemical Engineering, currently c
 * Reduced-order modeling
 
 ## Education
-* **Ph.D.**, Chemical Engineering, Cornell University, 2024 - Present 
+* **Ph.D.**, Chemical Engineering, Cornell University, New York - USA. 2024 - Present 
 <br />
 Minor in Computer Science
 
-* **B.Sc.**, Engineering, Kazan National Research Technological University, 2024
+* **B.Sc.**, Engineering, Kazan National Research Technological University, Kazan - Russia. 2019 - 2024
