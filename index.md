@@ -17,7 +17,7 @@ Hi!, I am a Ph.D. student in the department of Chemical Engineering, currently c
 
 
 <figure style="width: 550px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stall.gif" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stallwing.gif" alt="">
 </figure>
 
 ## Interests 
