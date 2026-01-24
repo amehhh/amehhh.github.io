@@ -32,6 +32,7 @@ Hi!, I am a Ph.D. student in the department of Chemical Engineering, currently c
 <br />
 Minor in Computer Science
 <br />
-* **Data Science**, Alt School Africa , 2024 - 2025. 
+
+* **Data Science**, Alt School Africa, 2024 - 2025. 
 
 * **B.Sc.**, Engineering, Kazan National Research Technological University, Kazan - Russia. 2019 - 2024
