@@ -18,6 +18,6 @@ classes: wide
 
 2. Featured in Olin Hall News (January/February Edition), Department of Chemical and Biomolecular Engineering. [[Link]](https://drive.google.com/file/d/1e026aMEmP5ZMV65K9IyAs-HKgVxHHvdX/view?usp=sharing)
 
-3. Attended the Cross Campus Innovation Exchange at Cornell Tech in New York City - January 23rd , 2026. 
+3. Attended the Cross Campus Innovation Exchange at Cornell Tech in New York City - January 23rd , 2026 [[Link]](https://drive.google.com/file/d/1FDEKq9qEhVtTHt1uHa1-WVxe_bPs-dFs/view?usp=sharing). 
 
 
