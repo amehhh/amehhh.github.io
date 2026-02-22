@@ -18,7 +18,7 @@ classes: wide
 
 1. Research Talk at the ILAS Special Session on “Recent Advances in Model Order Reduction and Data-Driven Modeling,” Joint Mathematics Meetings, Washington, DC, January 3–7, 2026. **Trajectory-Optimization-Based Model Reduction via Balancing States and Costates for Optimal Control**
 
-2. Served as a poster reviewer for undergraduate research presentations at the Joint Mathematics Meetings (JMM), Washington, DC.
+2. Served as a poster reviewer for undergraduate research presentations at the Joint Mathematics Meetings (JMM), Washington, DC, January 3–7, 2026.
 
 3. Featured in Olin Hall News (January/February Edition), Department of Chemical and Biomolecular Engineering. [[Link]](https://drive.google.com/file/d/1e026aMEmP5ZMV65K9IyAs-HKgVxHHvdX/view?usp=sharing)
 
