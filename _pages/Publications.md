@@ -10,11 +10,11 @@ classes: wide
 
 2.  I will be presenting a research talk titled **Model Reduction for Optimal Control by Balanced Truncation of State and Gradient Covariance** at the 17th International Linear Algebra Society (ILAS) Conference, Virginia Tech, May 18–22, 2026. [[Link]](https://drive.google.com/file/d/1LrIkYKANOeUl3M4d6b3NM-RCOjqrjutX/view?usp=sharing)
 
-3. I will be presenting a research talk at the Young Mathematicians in Model Order Reduction (YMMOR 2026) conference, to be held at Virginia Tech in Blacksburg, VA, from May 25–29, 2026.
+3. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
 
 4. I will be presenting a poster on my research to incoming PhD students at the Sibley School of Mechanical and Aerospace Engineering, Duffield Hall, on March 13 , 2026. 
 
-5. I have been invited to present my research / attend the conference “Simulation-Based Optimization with Applications” at the Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, to be held in Providence, RI, from April 13–17, 2026. [[Link]](https://drive.google.com/file/d/1FYlk-6jRWo97BNMp3IPgod5DNdXH8F0-/view?usp=sharing).
+5. I have been invited to present my research / attend the conference **“Simulation-Based Optimization with Applications”** at the Institute for Computational and Experimental Research in Mathematics (ICERM), **Brown University**, to be held in Providence, RI, from April 13–17, 2026. [[Link]](https://drive.google.com/file/d/1FYlk-6jRWo97BNMp3IPgod5DNdXH8F0-/view?usp=sharing).
 
 6. I have been selected to serve as an Ambassador for the Mechanical and Aerospace Engineering PhD Visit Weekend for incoming doctoral students, taking place from March 13–14, 2026.
 
