@@ -23,8 +23,8 @@ Hi!, I am a Ph.D. student in the department of Chemical Engineering, currently c
 ## Interests 
 * Computational fluid dynamics
 * Machine / Deep learning
-* Numerical Analysis
-* Optimal Control / Reinforcement learning
+* Numerical Analysis 
+* Optimal Control / Optimization
 * Reduced-order modeling
 
 ## Education
