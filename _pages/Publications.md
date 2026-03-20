@@ -12,11 +12,7 @@ classes: wide
 
 3. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
 
-4. I will be presenting a poster on my research to incoming PhD students at the Sibley School of Mechanical and Aerospace Engineering, Duffield Hall, on March 13 , 2026. 
-
 5. I have been invited to present my research / attend the conference **“Simulation-Based Optimization with Applications”** at the Institute for Computational and Experimental Research in Mathematics (ICERM), **Brown University**, to be held in Providence, RI, from April 13–17, 2026. [[Link]](https://drive.google.com/file/d/1FYlk-6jRWo97BNMp3IPgod5DNdXH8F0-/view?usp=sharing).
-
-6. I have been selected to serve as an Ambassador for the Mechanical and Aerospace Engineering PhD Visit Weekend for incoming doctoral students, taking place from March 13–14, 2026.
 
 ## Presented Work/ News 
 
@@ -29,5 +25,9 @@ classes: wide
 4. Attended the Cross Campus Innovation Exchange at Cornell Tech in New York City - January 23rd , 2026 [[Link]](https://drive.google.com/file/d/1FDEKq9qEhVtTHt1uHa1-WVxe_bPs-dFs/view?usp=sharing).
 
 5. Poster Presentation titled **Data-Driven Surrogate Modeling for Optimal Control of Fluid Flows via Trajectory Optimization** at the 15th Annual CBE Graduate Research Symposium, Department of Chemical and Biomolecular Engineering, Olin Hall, Cornell University, February 17, 2026.[[Link]](https://drive.google.com/drive/folders/1U3_HCnG_WdlC5y3t7l1m82ttcUiNMLfb?usp=sharing)
+
+6. I served as an Ambassador for the Mechanical and Aerospace Engineering PhD Visit Weekend for incoming doctoral students, that took place from March 13–14, 2026.
+
+7. Poster presentation on my research to incoming PhD students at the Sibley School of Mechanical and Aerospace Engineering, Duffield Hall, on March 13 , 2026.
 
 
