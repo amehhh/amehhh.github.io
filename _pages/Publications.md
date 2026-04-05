@@ -16,7 +16,7 @@ classes: wide
 
 6. I am co-organizing the [Sibley Graduate (SIGMA) Research Symposium](https://blogs.cornell.edu/sgrs/) on May 15, 2026 · Upson Hall 106.
 
-7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
+7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
 
 ## Presented Work/ News 
 
