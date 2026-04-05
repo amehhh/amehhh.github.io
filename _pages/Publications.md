@@ -14,6 +14,10 @@ classes: wide
 
 5. I have been invited to present my research / attend the conference **“Simulation-Based Optimization with Applications”** at the Institute for Computational and Experimental Research in Mathematics (ICERM), **Brown University**, to be held in Providence, RI, from April 13–17, 2026. [[Link]](https://drive.google.com/file/d/1FYlk-6jRWo97BNMp3IPgod5DNdXH8F0-/view?usp=sharing).
 
+6. I am co-organizing the [Sibley Graduate (SIGMA) Research Symposium](https://blogs.cornell.edu/sgrs/) on May 15, 2026 · Upson Hall 106.
+
+7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
+
 ## Presented Work/ News 
 
 1. Research Talk at the ILAS Special Session on “Recent Advances in Model Order Reduction and Data-Driven Modeling,” Joint Mathematics Meetings, Washington, DC, January 3–7, 2026. **Trajectory-Optimization-Based Model Reduction via Balancing States and Costates for Optimal Control**
