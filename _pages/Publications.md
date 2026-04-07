@@ -18,6 +18,8 @@ classes: wide
 
 7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
 
+8. I have been awarded the ILAS 2026 Early Career NSF Conference Grant to attend and present at the ILAS 2026 Conference at Virginia Tech.
+
 ## Presented Work/ News 
 
 1. Research Talk at the ILAS Special Session on “Recent Advances in Model Order Reduction and Data-Driven Modeling,” Joint Mathematics Meetings, Washington, DC, January 3–7, 2026. **Trajectory-Optimization-Based Model Reduction via Balancing States and Costates for Optimal Control**
