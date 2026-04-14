@@ -36,6 +36,6 @@ classes: wide
 
 7. Poster presentation on my research to incoming PhD students at the Sibley School of Mechanical and Aerospace Engineering, Duffield Hall, on March 13 , 2026.
 
-8. Research Elevator Pitch / Poster presentation at the “Simulation-Based Optimization with Applications” conference, held at the Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, Providence, RI, April 13–17, 2026. [[Link]](https://drive.google.com/file/d/1FYlk-6jRWo97BNMp3IPgod5DNdXH8F0-/view?usp=sharing).
+8. Research Elevator Pitch / Poster presentation at the “Simulation-Based Optimization with Applications” conference, held at the Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, Providence, RI, April 13–17, 2026. [[Link]](https://drive.google.com/drive/folders/1xCGY8poVo8n0TQcIjwSC4c-ah4-JNeQg?usp=sharing).
 
 
