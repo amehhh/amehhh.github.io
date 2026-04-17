@@ -12,8 +12,6 @@ classes: wide
 
 3. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
 
-5. I have been invited to present my 
-
 6. I am co-organizing the [Sibley Graduate (SIGMA) Research Symposium](https://blogs.cornell.edu/sgrs/) on May 15, 2026 · Upson Hall 106.
 
 7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
