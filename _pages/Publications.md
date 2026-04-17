@@ -38,4 +38,6 @@ classes: wide
 
 8. Research Elevator Pitch / Poster presentation at the “Simulation-Based Optimization with Applications” conference, held at the Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, Providence, RI, April 13–17, 2026. [[Link]](https://drive.google.com/drive/folders/1xCGY8poVo8n0TQcIjwSC4c-ah4-JNeQg?usp=sharing).
 
+9. Instructor at Splash Cornell - Delivered a hands-on linear algebra course to 25 high school students from across New York, focusing on real world linear algebra applications.[[Link]](https://cornell.learningu.org/learn/Splash/current/catalog) 
+
 
