@@ -18,7 +18,7 @@ classes: wide
 
 8. I have been awarded the ILAS 2026 Early Career NSF Conference Grant to attend and present at the ILAS 2026 Conference at Virginia Tech.
 
-9. I have been awarded the Cornell University Conference Travel grant for Graduate Students 
+9. I have been awarded the Cornell University Conference Travel grant for Graduate Students. 
 
 
 ## Presented Work/ News 
