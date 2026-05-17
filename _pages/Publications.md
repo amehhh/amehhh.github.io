@@ -47,4 +47,8 @@ classes: wide
 
 12. I am Serving on the board of the Chemical Engineering Graduate Student Association (CHEGSA) [[Link]](https://chegsa.cbe.cornell.edu/), for the 2026–2027 academic year. 
 
+13. Co-organized the Sibley Graduate (SIGMA) Research Symposium at Cornell University [[Link]](https://blogs.cornell.edu/sgrs/)  held on May 15, 2026, at Upson Hall, which achieved the highest level of research participation and presentation turnout in the symposium’s history. 
+
+
+
 
