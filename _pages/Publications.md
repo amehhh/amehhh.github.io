@@ -43,4 +43,8 @@ classes: wide
 
 10. Featured in Olin Hall News (April Edition), Department of Chemical and Biomolecular Engineering. 
 
+11. Presented a research talk at the Sibley School of Mechanical and Aerospace Engineering Graduate Research Symposium [[Link]](https://blogs.cornell.edu/sgrs/presenters/), Cornell University — May 15, 2026. 
+
+12. I am Serving on the board of the Chemical Engineering Graduate Student Association (CHEGSA) [[Link]] (https://chegsa.cbe.cornell.edu/), for the 2026–2027 academic year. 
+
 
