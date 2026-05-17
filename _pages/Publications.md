@@ -12,8 +12,6 @@ classes: wide
 
 3. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
 
-6. I am co-organizing the [Sibley Graduate (SIGMA) Research Symposium](https://blogs.cornell.edu/sgrs/) on May 15, 2026 · Upson Hall 106.
-
 7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
 
 8. I have been awarded the ILAS 2026 Early Career NSF Conference Grant to attend and present at the ILAS 2026 Conference at Virginia Tech.
@@ -48,6 +46,8 @@ classes: wide
 12. I am Serving on the board of the Chemical Engineering Graduate Student Association (CHEGSA) [[Link]](https://chegsa.cbe.cornell.edu/), for the 2026–2027 academic year. 
 
 13. Co-organized the Sibley Graduate (SIGMA) Research Symposium at Cornell University [[Link]](https://blogs.cornell.edu/sgrs/)  held on May 15, 2026, at Upson Hall, which achieved the highest level of research participation and presentation turnout in the symposium’s history. 
+
+14. Winner of the Science as Art Competition at the Sibley Graduate (SIGMA) Research Symposium hosted by Mechanical and Aerospace Engineering , department, Cornell University. Check out my award-winning artwork.
 
 
 
