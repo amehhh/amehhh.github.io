@@ -47,7 +47,7 @@ classes: wide
 
 13. Co-organized the Sibley Graduate (SIGMA) Research Symposium at Cornell University [[Link]](https://blogs.cornell.edu/sgrs/)  held on May 15, 2026, at Upson Hall, which achieved the highest level of research participation and presentation turnout in the symposium’s history. 
 
-14. Winner of the Science as Art Competition at the Sibley Graduate (SIGMA) Research Symposium hosted by Mechanical and Aerospace Engineering , department, Cornell University. Check out my award-winning artwork.
+14. Winner of the Science as Art Competition at the Sibley Graduate (SIGMA) Research Symposium hosted by Mechanical and Aerospace Engineering , department, Cornell University.
 
 
 
