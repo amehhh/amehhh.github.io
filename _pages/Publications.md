@@ -14,9 +14,7 @@ classes: wide
 
 7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
 
-8. I have been awarded the ILAS 2026 Early Career NSF Conference Grant to attend and present at the ILAS 2026 Conference at Virginia Tech.
 
-9. I have been awarded the Cornell University Conference Travel grant for Graduate Students. 
 
 
 ## Presented Work/ News 
@@ -48,6 +46,10 @@ classes: wide
 13. Co-organized the Sibley Graduate (SIGMA) Research Symposium at Cornell University [[Link]](https://blogs.cornell.edu/sgrs/)  held on May 15, 2026, at Upson Hall, which achieved the highest level of research participation and presentation turnout in the symposium’s history. 
 
 14. Winner of the Science as Art Competition at the Sibley Graduate (SIGMA) Research Symposium hosted by Mechanical and Aerospace Engineering , department, Cornell University.
+
+15. I have been awarded the Cornell University Conference Travel grant for Graduate Students. 
+
+16. I have been awarded the ILAS 2026 Early Career NSF Conference Grant to attend and present at the ILAS 2026 Conference at Virginia Tech.
 
 
 
