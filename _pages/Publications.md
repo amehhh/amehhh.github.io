@@ -8,11 +8,9 @@ classes: wide
 ## Scheduled 
 1.  My research, “Balanced Active Subspaces for Optimal Control of High-Dimensional Fluid Flows via Trajectory Optimization,” has been accepted for presentation in the technical program of the 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2026), Munich, Germany, July 19–24, 2026. [[Link]](https://drive.google.com/file/d/1W1NYmxitA31lPkmvw4-49tn0cLI9Li97/view?usp=sharing)
 
-2.  I will be presenting a research talk titled **Model Reduction for Optimal Control by Balanced Truncation of State and Gradient Covariance** at the 17th International Linear Algebra Society (ILAS) Conference, Virginia Tech, May 18–22, 2026. [[Link]](https://drive.google.com/file/d/1LrIkYKANOeUl3M4d6b3NM-RCOjqrjutX/view?usp=sharing)
+2. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
 
-3. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
-
-7. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
+3. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
 
 
 
@@ -47,10 +45,11 @@ classes: wide
 
 14. Winner of the Science as Art Competition at the Sibley Graduate (SIGMA) Research Symposium hosted by Mechanical and Aerospace Engineering , department, Cornell University.
 
-15. I have been awarded the Cornell University Conference Travel grant for Graduate Students. 
+15. I have been awarded the Cornell University Conference Travel grant for graduate students. 
 
 16. I have been awarded the ILAS 2026 Early Career NSF Conference Grant to attend and present at the ILAS 2026 Conference at Virginia Tech.
 
+17. Research talk titled **Model Reduction for Optimal Control by Balanced Truncation of State and Gradient Covariance** at the 17th International Linear Algebra Society (ILAS) Conference, Virginia Tech, May 18–22, 2026. [[Link]](https://drive.google.com/file/d/1LrIkYKANOeUl3M4d6b3NM-RCOjqrjutX/view?usp=sharing)
 
 
 
