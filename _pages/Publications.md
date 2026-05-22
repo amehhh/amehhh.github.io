@@ -49,7 +49,7 @@ classes: wide
 
 16. I have been awarded the ILAS 2026 Early Career NSF Conference Grant to attend and present at the ILAS 2026 Conference at Virginia Tech.
 
-17. Research talk titled **Model Reduction for Optimal Control by Balanced Truncation of State and Gradient Covariance** at the 17th International Linear Algebra Society (ILAS) Conference, Virginia Tech, May 18–22, 2026. [[Link]](https://drive.google.com/file/d/1LrIkYKANOeUl3M4d6b3NM-RCOjqrjutX/view?usp=sharing)
+17. Research talk titled **Model Reduction for Optimal Control by Balanced Truncation of State and Gradient Covariance** at the 17th International Linear Algebra Society (ILAS) Conference, Virginia Tech, May 18–22, 2026. [[Link]](https://drive.google.com/file/d/1LrIkYKANOeUl3M4d6b3NM-RCOjqrjutX/view?usp=sharing).
 
 
 
