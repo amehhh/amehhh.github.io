@@ -12,6 +12,8 @@ classes: wide
 
 3. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
 
+4. I will be Participating in the Intuit Explainable AI & Machine Learning Hackathon during New York Tech Week 2026 in New York City (June 5–6, 2026). [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv)
+
 
 
 
