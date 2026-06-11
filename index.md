@@ -11,7 +11,7 @@ classes: wide
 {: style="text-align: justify;"}
 Hi!, I am a Ph.D. student , currently conducting research in the Sibley school of Mechanical and Aerospace Engineering under [Prof. Samuel Otto](https://www.engineering.cornell.edu/people/sam-otto/) in the [Otto Lab](https://sites.google.com/view/ottolab/home) and minoring in Computer Science at Cornell University, New York, USA. Previously, I completed my undegraduate degree under [Prof. Petrov Sergey Mikhailovich](https://vuzopedia.ru/teacher/petrov-sergey-mikhaylovich) at the Kazan National Research technological University, Kazan, Russia. My research interests lie at the intersection of **computational fluid dynamics, machine learning, reinforcement learning, and reduced-order modeling** , with the goal of developing efficient methods for the optimal control of high-dimensional nonlinear dynamical systems.
 
-Currently seeking Applied Data Science Research or Quantitative Finance internships for Summer 2027. Feel free to reach out if you know of any opportunities or would like to connect.
+Currently seeking Applied ML , Data Science Research or Quantitative Finance internships for Summer 2027. Feel free to reach out if you know of any opportunities or would like to connect.
 
 
 
