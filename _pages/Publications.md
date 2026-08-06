@@ -14,10 +14,6 @@ classes: wide
 
 4. I will be Participating in the Intuit Explainable AI & Machine Learning Hackathon during New York Tech Week 2026 in New York City (June 5–6, 2026). [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv)
 
-5. Passed A Exams , I will be TA with Alex Townsend 
-
-
-
 ## Presented Work/ News 
 1. Passed the **Ph.D. Admission to Candidacy (A) Exam** on July 15th and now a **Ph.D. Candidate** in the Otto Lab, Department of Mechanical and Aerospace Engineering, Cornell University. Check out my exam slides [here](LINK).
 
