@@ -10,9 +10,7 @@ classes: wide
 
 2. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
 
-3. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home)
-
-4. I will be Participating in the Intuit Explainable AI & Machine Learning Hackathon during New York Tech Week 2026 in New York City (June 5–6, 2026). [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv)
+3. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home). 
 
 ## Presented Work/ News 
 1. Passed my **Ph.D. Admission to Candidacy (A) Exam** on July 15th and now a **Ph.D. Candidate** in the Otto Lab, Department of Mechanical and Aerospace Engineering, Cornell University. Check out my exam slides [here](LINK).
@@ -22,6 +20,9 @@ classes: wide
 1. I will be serving as a **Teaching Assistant** for **MATH 2940: Linear Algebra for Engineers** at **Cornell University** in **Summer 2027**, working alongside [Alex Townsend](https://math.cornell.edu/alex-townsend).
 
 1. Gave a Research Talk at the FLAME (Future Leaders in Aerospace and Mechanical Engineering) Summer Program for Graduate Students, Cornell University, Ithaca, New York, August 5, 2026.
+
+4. Participated in the **Intuit Explainable AI & Machine Learning Hackathon** during **New York Tech Week 2026** in New York City (June 5–6, 2026). Our team placed **5th out of 25 teams** - not bad for our first hackathon!. We go again next year! [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv)
+
 
 1. Research Talk at the ILAS Special Session on “Recent Advances in Model Order Reduction and Data-Driven Modeling,” Joint Mathematics Meetings, Washington, DC, January 3–7, 2026. **Trajectory-Optimization-Based Model Reduction via Balancing States and Costates for Optimal Control**
 
