@@ -14,10 +14,18 @@ classes: wide
 
 4. I will be Participating in the Intuit Explainable AI & Machine Learning Hackathon during New York Tech Week 2026 in New York City (June 5–6, 2026). [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv)
 
+5. Passed A Exams , I will be TA with Alex Townsend 
 
 
 
 ## Presented Work/ News 
+1. Passed the **Ph.D. Admission to Candidacy (A) Exam** on July 15th and now a **Ph.D. Candidate** in the Otto Lab, Department of Mechanical and Aerospace Engineering, Cornell University. Check out my exam slides [here](LINK).
+
+1. Awarded a **non-thesis Master of Science** degree from **Cornell University** in **July 2026**. Grateful for an incredible two years and excited to continue toward my **Ph.D.**
+
+1. I will be serving as a **Teaching Assistant** for **MATH 2940: Linear Algebra for Engineers** at **Cornell University** in **Summer 2027**, working alongside [Alex Townsend](https://math.cornell.edu/alex-townsend).
+
+1. Gave a Research Talk at the FLAME (Future Leaders in Aerospace and Mechanical Engineering) Summer Program for Graduate Students, Cornell University, Ithaca, New York, August 5, 2026.
 
 1. Research Talk at the ILAS Special Session on “Recent Advances in Model Order Reduction and Data-Driven Modeling,” Joint Mathematics Meetings, Washington, DC, January 3–7, 2026. **Trajectory-Optimization-Based Model Reduction via Balancing States and Costates for Optimal Control**
 
