@@ -6,7 +6,7 @@ classes: wide
 ---
 
 ## Scheduled 
-1.  My research, “Balanced Active Subspaces for Optimal Control of High-Dimensional Fluid Flows via Trajectory Optimization,” has been accepted for presentation in the technical program of the 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2026), Munich, Germany, July 19–24, 2026. [[Link]](https://drive.google.com/file/d/1W1NYmxitA31lPkmvw4-49tn0cLI9Li97/view?usp=sharing)
+1.  My research, “Balanced Active Subspaces for Optimal Control of High-Dimensional Fluid Flows via Trajectory Optimization,” has been accepted for presentation in the technical program of the 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2026), Munich, Germany, July 19–24, 2026. [[Link]](https://drive.google.com/file/d/1W1NYmxitA31lPkmvw4-49tn0cLI9Li97/view?usp=sharing).
 
 2. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
 
