@@ -21,7 +21,7 @@ classes: wide
 
 1. Gave a Research Talk at the FLAME (Future Leaders in Aerospace and Mechanical Engineering) Summer Program for Graduate Students, Cornell University, Ithaca, New York, August 5, 2026.
 
-4. Participated in the **Intuit Explainable AI & Machine Learning Hackathon** during **New York Tech Week 2026** in New York City (June 5–6, 2026). Our team placed **5th out of 25 teams** - not bad for our first hackathon!. We go again next year! [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv)
+4. Participated in the **Intuit Explainable AI & Machine Learning Hackathon** during **New York Tech Week 2026** in New York City (June 5–6, 2026). Our team placed **5th out of 25 teams** - not bad for our first hackathon!. We go again next year! [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv).
 
 
 1. Research Talk at the ILAS Special Session on “Recent Advances in Model Order Reduction and Data-Driven Modeling,” Joint Mathematics Meetings, Washington, DC, January 3–7, 2026. **Trajectory-Optimization-Based Model Reduction via Balancing States and Costates for Optimal Control**
