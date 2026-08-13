@@ -9,10 +9,13 @@ classes: wide
 1.  My research, “Balanced Active Subspaces for Optimal Control of High-Dimensional Fluid Flows via Trajectory Optimization,” has been accepted for presentation in the technical program of the 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2026), Munich, Germany, July 19–24, 2026. [[Link]](https://drive.google.com/file/d/1W1NYmxitA31lPkmvw4-49tn0cLI9Li97/view?usp=sharing).
 
 2. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
-
-3. I will be attending and presenting my research at the Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis at the Wharton School, University of Pennsylvania, Philadelphia, PA, from August 11–13. [Link](https://sites.google.com/view/nsfcrse/home). 
+ 
 
 ## Presented Work/ News 
+1. Gave a research talk and presented a poster at the **Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis Conference** at the Wharton School, University of Pennsylvania, Philadelphia, PA, August 11–13. Check out my cool poster! [[Link]](https://drive.google.com/file/d/1fVR1S38K4QaUMCQx4w20L-wjpeliuIFI/view?usp=sharing)
+
+1. Awarded a travel grant by the National Institute of Statistical Sciences (NISS) to attend the CRSE conference.
+
 1. Passed my **Ph.D. Admission to Candidacy (A) Exam** on July 15th and now a **Ph.D. Candidate** in the Otto Lab, Department of Mechanical and Aerospace Engineering, Cornell University. Check out my exam slides [here](LINK).
 
 1. Awarded a **non-thesis Master of Science** degree from **Cornell University** in **July 2026**. Grateful for an incredible two years and excited to continue toward my **Ph.D.**
