@@ -9,7 +9,13 @@ classes: wide
 1.  My research, “Balanced Active Subspaces for Optimal Control of High-Dimensional Fluid Flows via Trajectory Optimization,” has been accepted for presentation in the technical program of the 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2026), Munich, Germany, July 19–24, 2026. [[Link]](https://drive.google.com/file/d/1W1NYmxitA31lPkmvw4-49tn0cLI9Li97/view?usp=sharing).
 
 2. I will be presenting a research talk at the **Young Mathematicians in Model Order Reduction (YMMOR 2026) conference**, to be held at **Virginia Tech** in Blacksburg, VA, from May 25–29, 2026.
+
+3. I will continue serving as a [**Peer Mentor for the Multicultural Academic Council (MAC) Doctoral Peer Mentoring Program**](https://cornell.campusgroups.com/mac/home/) at **Cornell University** for the 2026–2027 academic year, following my service during the 2025–2026 academic year.
+
+4. I will be attending the [**SIAM Conference on Mathematics of Data Science (MDS26)**](https://www.siam.org/conferences-events/siam-conferences/mds26/), to be held in **Salt Lake City, UT**, from November 16–20, 2026.
  
+ 5. Our work organizing the **2026 Sibley Graduate Research Symposium**, which recorded the **highest turnout in its history**, was featured by the [**Cornell Graduate School**](https://gradschool.cornell.edu/) and [**Cornell Career Network**](https://career.cornell.edu/blog/2026/08/27/student-led-graduate-research-symposium-exposes-possibilities-and-strengthens-skills/).
+
 
 ## Presented Work/ News 
 1. Gave a research talk and presented a poster at the [**Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis Conference**](https://sites.google.com/view/nsfcrse/home) at the Wharton School, University of Pennsylvania, Philadelphia, PA, August 11–13. Check out my cool poster! [[Link]](https://drive.google.com/file/d/1fVR1S38K4QaUMCQx4w20L-wjpeliuIFI/view?usp=sharing)
