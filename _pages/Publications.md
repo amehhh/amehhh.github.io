@@ -18,11 +18,13 @@ classes: wide
 
  6. I have been awarded the [SIAM Student Travel Award](https://drive.google.com/file/d/197-qENqlF1VqGovlNwtIcDlFe2X4QQbV/view?usp=sharing) to attend the SIAM Conference on Mathematics of Data Science (MDS26), to be held in Salt Lake City, UT, from November 16–20, 2026. 
 
- 7. I have been confirmed as a [Judge](https://drive.google.com/file/d/19J4AXWCPr9MDeSDLL9PQDWvK92Jgx0Y5/view?usp=sharing) at the NVIDIA × Dell Hackathon this Saturday at Cornell University.
+ 7.
 
 
 
 ## Presented Work/ News 
+ I partcipated as a confirmed [Judge](https://drive.google.com/file/d/19J4AXWCPr9MDeSDLL9PQDWvK92Jgx0Y5/view?usp=sharing) at the NVIDIA × Dell Hackathon on Saturday 12th August Cornell University. Thanks to everyone who showed up !
+
 1. Featured in Olin Hall News (August) – Scientist Spotlight, Department of Chemical and Biomolecular Engineering.
 
 1. Gave a research talk and presented a poster at the [**Collaborative Research at the Intersection of Statistics and Engineering (CRSE): High-Dimensional Data Analysis Conference**](https://sites.google.com/view/nsfcrse/home) at the Wharton School, University of Pennsylvania, Philadelphia, PA, August 11–13. Check out my cool poster! [[Link]](https://drive.google.com/file/d/1fVR1S38K4QaUMCQx4w20L-wjpeliuIFI/view?usp=sharing)
