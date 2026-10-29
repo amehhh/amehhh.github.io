@@ -16,14 +16,12 @@ classes: wide
  
  5. Our work organizing the **2026 Sibley Graduate Research Symposium**, which recorded the **highest turnout in its history**, was featured by the [**Cornell Graduate School**](https://gradschool.cornell.edu/) and [**Cornell Career Network**](https://career.cornell.edu/blog/2026/08/27/student-led-graduate-research-symposium-exposes-possibilities-and-strengthens-skills/).
 
- 6. I have been awarded the [SIAM Student Travel Award](https://drive.google.com/file/d/197-qENqlF1VqGovlNwtIcDlFe2X4QQbV/view?usp=sharing) to attend the SIAM Conference on Mathematics of Data Science (MDS26), to be held in Salt Lake City, UT, from November 16–20, 2026. 
-
- 7.
+ 6. I have been awarded the [SIAM Student Travel Award](https://drive.google.com/file/d/197-qENqlF1VqGovlNwtIcDlFe2X4QQbV/view?usp=sharing) to attend the SIAM Conference on Mathematics of Data Science (MDS26), to be held in Salt Lake City, UT, from November 16–20, 2026.
 
 
 
 ## Presented Work/ News 
- I partcipated as a confirmed [Judge](https://drive.google.com/file/d/19J4AXWCPr9MDeSDLL9PQDWvK92Jgx0Y5/view?usp=sharing) at the NVIDIA × Dell Hackathon on Saturday 12th August Cornell University. Thanks to everyone who showed up !
+1. I partcipated as a confirmed [Judge](https://drive.google.com/file/d/19J4AXWCPr9MDeSDLL9PQDWvK92Jgx0Y5/view?usp=sharing) at the NVIDIA × Dell Hackathon on Saturday 12th August Cornell University. Thanks to everyone who showed up !
 
 1. Featured in Olin Hall News (August) – Scientist Spotlight, Department of Chemical and Biomolecular Engineering.
 
