@@ -14,9 +14,9 @@ classes: wide
 
 4. I will be attending the [**SIAM Conference on Mathematics of Data Science (MDS26)**](https://www.siam.org/conferences-events/siam-conferences/mds26/), to be held in **Salt Lake City, UT**, from November 16–20, 2026.
  
- 5. Our work organizing the **2026 Sibley Graduate Research Symposium**, which recorded the **highest turnout in its history**, was featured by the [**Cornell Graduate School**](https://gradschool.cornell.edu/) and [**Cornell Career Network**](https://career.cornell.edu/blog/2026/08/27/student-led-graduate-research-symposium-exposes-possibilities-and-strengthens-skills/).
+5. Our work organizing the **2026 Sibley Graduate Research Symposium**, which recorded the **highest turnout in its history**, was featured by the [**Cornell Graduate School**](https://gradschool.cornell.edu/) and [**Cornell Career Network**](https://career.cornell.edu/blog/2026/08/27/student-led-graduate-research-symposium-exposes-possibilities-and-strengthens-skills/).
 
- 6. I have been awarded the [SIAM Student Travel Award](https://drive.google.com/file/d/197-qENqlF1VqGovlNwtIcDlFe2X4QQbV/view?usp=sharing) to attend the SIAM Conference on Mathematics of Data Science (MDS26), to be held in Salt Lake City, UT, from November 16–20, 2026.
+6. I have been awarded the [SIAM Student Travel Award](https://drive.google.com/file/d/197-qENqlF1VqGovlNwtIcDlFe2X4QQbV/view?usp=sharing) to attend the SIAM Conference on Mathematics of Data Science (MDS26), to be held in Salt Lake City, UT, from November 16–20, 2026.
 
 
 
@@ -37,8 +37,7 @@ classes: wide
 
 1. Gave a Research Talk at the FLAME (Future Leaders in Aerospace and Mechanical Engineering) Summer Program for Graduate Students, Cornell University, Ithaca, New York, August 5, 2026.
 
-4. Participated in the **Intuit Explainable AI & Machine Learning Hackathon** during **New York Tech Week 2026** in New York City (June 5–6, 2026). Our team placed **5th out of 25 teams** - not bad for our first hackathon!. We go again next year! [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv).
-
+1. Participated in the **Intuit Explainable AI & Machine Learning Hackathon** during **New York Tech Week 2026** in New York City (June 5–6, 2026). Our team placed **5th out of 25 teams** - not bad for our first hackathon!. We go again next year! [[Link]](https://partiful.com/e/EstgcJd2gxjOPGIbPHmv).
 
 1. Research Talk at the ILAS Special Session on “Recent Advances in Model Order Reduction and Data-Driven Modeling,” Joint Mathematics Meetings, Washington, DC, January 3–7, 2026. **Trajectory-Optimization-Based Model Reduction via Balancing States and Costates for Optimal Control**
 
